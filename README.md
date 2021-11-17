@@ -7,4 +7,4 @@ Yaroslav Felipe Kalle Kossio, Sven Goedeke, Christian Klos, and Raoul-Martin Mem
 
 ## Requirements
 
-The code was written in Python 3.7.2 using [NumPy](https://numpy.org/) 1.15.4 and [Matplotlib](https://matplotlib.org/) 3.03.
+The code was written in Python 3.7.2 using [NumPy](https://numpy.org/) 1.15.4, [Matplotlib](https://matplotlib.org/) 3.03 and [Brian](https://briansimulator.org/) 2.4.2.
